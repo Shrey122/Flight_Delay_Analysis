@@ -15,11 +15,6 @@ Exploratory Data Analysis (EDA) – Visualize and understand data patterns
 
 Feature Engineering – Convert categorical values and scale the data
 
-Model Building – Train different machine learning models
-
-Model Evaluation – Compare results using accuracy and other metrics
-
-Prediction – Use the best model to predict flight delays
 
 🚀 How to Run
 
@@ -37,8 +32,6 @@ Python
 
 Pandas & NumPy
 
-Matplotlib & Seaborn
-
-Scikit-learn
+Matplotlib & Seaborn 
 
 Jupyter Notebook
